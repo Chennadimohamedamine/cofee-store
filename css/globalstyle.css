@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Gloock&family=Lato:ital,wght@1,300&family=Lobster&family=Playfair+Display:ital@1&family=Tajawal&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Gloock&family=Lato:ital,wght@1,300&family=Playfair+Display:ital@1&family=Tajawal&display=swap");
+:root {
+  --c-1: #a0522d;
+  --co-: #e67474;
+  --f-alex:'AlexBrush';
+  --f-Nicks-Fonts:'Nicks Fonts';
+  --f-n28:'N28';
+  scroll-behavior: smooth;
+}
+@font-face {
+    font-family: 'AlexBrush';
+    src: url(../font/AlexBrush-Regular.ttf);
+}
+@font-face {
+    font-family: 'Nicks Fonts';
+    src: url(../font/CREAMPUF.TTF);
+}
+@font-face {
+    font-family: 'N28';
+    src: url(../font/28\ Days\ Later.ttf);
+}
