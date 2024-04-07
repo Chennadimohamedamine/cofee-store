@@ -1,0 +1,222 @@
+@media only screen and (max-width: 990px){
+  .section-1 > div:first-child > p {
+    width: 25rem;
+}
+.section-1 > div:first-child > h1 {
+  font-size: 2rem;
+}
+.section-2 >div:last-child {
+  height: 32.38rem;
+}
+}
+@media only screen and (max-width: 990px){
+  .section-2 >div:first-child>p {
+    font-size: 1.2rem;
+}
+}
+@media only screen and (max-width: 865px) {
+  .link-navBar {
+    position: fixed;
+    left: 0;
+    top: -50rem;
+    width: 100%;
+    height: auto;
+    background-color: #ffffff;
+    transition: 0.5s ease;
+    -webkit-transition: 0.5s ease;
+    -moz-transition: 0.5s ease;
+    -ms-transition: 0.5s ease;
+    -o-transition: 0.5s ease;
+    z-index: 1000;
+  }
+  .link-navBar > ul > li > a {
+    color: #000;
+  }
+  .link-navBar > ul {
+    display: flex;
+    margin-top: 10px;
+    row-gap: 15px;
+    flex-direction: column;
+    align-items: center;
+  }
+  .tuggole-menu {
+    display: block;
+  }
+  .tuggole-menu1 {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    width: auto;
+    height: auto;
+    display: none;
+    /* transition: 1s linear;
+    -webkit-transition: 1s linear;
+    -moz-transition: 1s linear;
+    -ms-transition: 1s linear;
+    -o-transition: 1s linear; */
+  }
+  .toggle {
+    top: 6.03rem;
+  }
+  .section-1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    position: relative;
+    align-content: center;
+  }
+  .section-1 > div:last-child {
+    width: 20rem;
+    position: absolute;
+    bottom:10px;
+  }
+  .section-1 > div:first-child {
+    align-items: center;
+    position: absolute;
+    top: 9rem;
+  }
+  .section-1 > div:first-child > P {
+    width: 33rem;
+  }
+  .section-1 > div:first-child > h1,
+  .section-1 > div:first-child > P {
+    text-align: center;
+  }
+  .section-2{
+    flex-wrap: wrap;
+    align-items: center;
+  }
+  .section-2 >div:first-child{
+    row-gap: 4rem;
+  }
+}
+@media only screen and (max-width: 804px){
+.card-customer {
+    width: 90%;
+  }
+}
+@media only screen and (max-width: 738px){
+  .section-1 > div:first-child > p {
+    width: 35rem;
+}
+.section-2 > div:first-child > h1 {
+  text-align: center;
+}
+.section-1 > div:first-child > h1 {
+  font-size: 2.5rem;
+  
+}
+.section-1 > div:first-child > a {
+  width: 14rem;
+  height: 4rem;
+  font-size: 1.1rem;
+}
+.section-2 >div:first-child {
+  height: 32.38rem;
+row-gap: 2rem;}
+}
+@media only screen and (max-width: 590px) {
+  .section-2 >div:first-child {
+    height: 32.38rem;}
+}
+@media only screen and (max-width: 590px) {
+  .section-1 > div:first-child > p {
+    width: 28rem;
+    font-size: 1.2rem;
+}
+  .section-1 > div:first-child > h1 {
+    font-size: 2rem;
+}
+  .section-1 > div:first-child > a {
+    width: 12rem;
+    height: 4rem;
+    font-size: 1rem;
+}
+.section-2 >div:last-child {
+  height: 25.38rem;
+}
+}
+@media only screen and (max-width: 553px){
+  footer > div:first-child {
+    width: 100%;
+    display: flex;
+    align-content: center;
+    align-items: center;
+}
+footer > div:first-child > p {
+  text-align: center;
+}
+}
+@media only screen and (max-width: 540px) {
+  .colum2 {
+    display: none;
+  }
+  .colum1 {
+    justify-content: space-between;
+  }
+}
+@media only screen and (max-width: 450px) {
+  .section-2 {
+    padding: 1rem 2rem;
+  }
+  .section-2 >div:first-child {
+    row-gap: 2rem;
+}
+}
+@media only screen and (max-width: 450px) {
+  .section-1 > div:first-child > h1 {
+    font-size: 1.5rem;
+}
+.section-1 > div:first-child > p {
+  width: 20rem;
+}
+.section-1 > div:first-child > a {
+  width: 11rem;
+  height: 3.5rem;
+  font-size: 1rem;
+}
+}
+
+@media only screen and (max-width: 390px) {
+  .section-2 {
+    padding: 1rem 0.5rem;
+}
+.section-2 >div:last-child {
+  height: 18.38rem;
+}
+.section-2 >div:first-child>p {
+  font-size: 1rem;
+}
+.section-2 >div:first-child>h1 {
+  font-size: 2.5rem;}
+}
+@media only screen and (max-width: 325px) {
+  .section-1 > div:first-child > h1 {
+    font-size: 1.5rem;
+}
+.section-1 > div:first-child > p {
+  font-size: 1rem;
+  width: 18rem;
+}
+.section-1 > div:last-child {
+  width: 18rem;
+}
+}
+@media only screen and (max-width: 370px) {
+  .colum1 > ul > li > a {
+    font-size: 13.4px;
+  }
+}
+@media only screen and (max-width: 360px) {
+.card{
+  width: 18rem;
+}
+.card > div:first-child {
+  width: 17rem;}
+.card > div:last-child {
+  width: 17rem;}
+  .card-customer {
+    width: 100%;
+}
+}
